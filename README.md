@@ -1,4 +1,13 @@
-## Hi there 👋
+
+## 💫 About Me:
+Olá! Sou uma entusiasta e estutante de tecnologia trabalhando no campo de Desenvolvimento de Software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde tenho me aprofundado em diversas linguagens de programação, frameworks e metodologias ágeis.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/glaucivania-gomes) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
 <!--
 **Glaucivania/Glaucivania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
