@@ -1,6 +1,6 @@
 
 ## 💫 About Me:
-Olá! Sou uma entusiasta e estudante de tecnologia trabalhando no campo de Desenvolvimento de Software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde tenho me aprofundado em diversas linguagens de programação, frameworks e metodologias ágeis.
+Olá! Sou uma entusiasta e estudante de tecnologia trabalhando no campo de Desenvolvimento de Software. Atualmente, estou cursando Engenharia de Software, onde tenho me aprofundado em diversas linguagens de programação, frameworks e metodologias ágeis.
 
 
 ## 🌐 Socials:
