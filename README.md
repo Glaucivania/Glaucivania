@@ -16,7 +16,7 @@ Desenvolvimento de soluções eficientes e escaláveis
 
 Estou aberta a colaborações e sempre disposta a aprender com a comunidade. Sinta-se à vontade para explorar meus repositórios e contribuir com feedback!
 
-🔗 Vamos nos conectar!
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/glaucivania-gomes/)
 </p>
