@@ -1,28 +1,22 @@
 
-## 💫 About Me:
-Olá! Sou uma entusiasta e estudante de tecnologia trabalhando no campo de Desenvolvimento de Software. Atualmente, estou cursando Engenharia de Software, onde tenho me aprofundado em diversas linguagens de programação, frameworks e metodologias ágeis.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
+  Olá, me chamo Glaucivania Gomes👋
+  
+Atualmente, estou cursando Engenharia de Software e focada em me tornar uma desenvolvedora backend, com ênfase em Java. Tenho paixão por resolver problemas e aprender novas tecnologias. Embora esteja em início de jornada profissional, estou sempre buscando desafios para aprimorar minhas habilidades e crescer na área de desenvolvimento de software.
 
+Aqui, você encontrará projetos relacionados a:
 
-### Connect with me 🌐
+Backend Development (Java)
+
+Análise de Sistemas
+
+Desenvolvimento de soluções eficientes e escaláveis
+
+Estou aberta a colaborações e sempre disposta a aprender com a comunidade. Sinta-se à vontade para explorar meus repositórios e contribuir com feedback!
+
+🔗 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/glaucivania-gomes/)
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-
-<!--
-**Glaucivania/Glaucivania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
