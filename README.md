@@ -8,11 +8,11 @@ Atualmente, estou cursando Engenharia de Software e focada em me tornar uma dese
 
 Aqui, você encontrará projetos relacionados a:
 
-Backend Development (Java)
+- Backend Development (Java)
 
-Análise de Sistemas
+- Análise de Sistemas
 
-Desenvolvimento de soluções eficientes e escaláveis
+- Desenvolvimento de soluções eficientes e escaláveis
 
 Estou aberta a colaborações e sempre disposta a aprender com a comunidade. Sinta-se à vontade para explorar meus repositórios e contribuir com feedback!
 
