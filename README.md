@@ -14,7 +14,7 @@ Aqui, você encontrará projetos relacionados a:
 
 - Desenvolvimento de soluções eficientes e escaláveis
 
-Estou aberta a colaborações e sempre disposta a aprender com a comunidade. Sinta-se à vontade para explorar meus repositórios e contribuir com feedback!
+Estou aberta a colaborações e sempre disposta a aprender com a comunidade. Sinta-se à vontade para explorar meus repositórios e contribuir com feedback!!
 
 ### Connect with me
 
