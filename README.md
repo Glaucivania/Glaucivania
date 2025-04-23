@@ -14,6 +14,67 @@ Aqui, você encontrará projetos relacionados a:
 
 - Desenvolvimento de soluções eficientes e escaláveis
 
+
+## 🛠 Tech Skills
+
+Tecnologias que estou aprendendo e praticando no momento, voltadas para desenvolvimento backend com Java:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
+      </a>
+      <br/>Java
+    </td>
+    <td align="center">
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" alt="Spring Boot" />
+      </a>
+      <br/>Spring Boot
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL" />
+      </a>
+      <br/>MySQL
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org/docs/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL" />
+      </a>
+      <br/>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://git-scm.com/doc" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
+      </a>
+      <br/>Git
+    </td>
+    <td align="center">
+      <a href="https://docs.github.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub" />
+      </a>
+      <br/>GitHub
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker" />
+      </a>
+      <br/>Docker
+    </td>
+    <td align="center">
+      <a href="https://maven.apache.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="60" alt="Maven" />
+      </a>
+      <br/>Maven
+    </td>
+  </tr>
+</table>
+
+
 Estou aberta a colaborações e sempre disposta a aprender com a comunidade. Sinta-se à vontade para explorar meus repositórios e contribuir com feedback!
 
 ### Connect with me
