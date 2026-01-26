@@ -4,20 +4,21 @@
 <p align="left"> 
   Olá, me chamo Glaucivania Gomes👋
   
-Atualmente, estou cursando Engenharia de Software e focada em me tornar uma desenvolvedora backend, com ênfase em Java. Tenho paixão por resolver problemas e aprender novas tecnologias. Embora esteja em início de jornada profissional, estou sempre buscando desafios para aprimorar minhas habilidades e crescer na área de desenvolvimento de software.
-
+Atualmente, estou cursando Engenharia de Software e expandindo minha atuação para além do desenvolvimento backend, focando em QA (Quality Assurance) e Análise de Dados com Python. Meu objetivo é construir soluções que sejam, ao mesmo tempo, robustas tecnicamente e orientadas por dados.
 Aqui, você encontrará projetos relacionados a:
 
-- Backend Development (Java)
+- Backend Development
 
 - Análise de Sistemas
 
-- Desenvolvimento de soluções eficientes e escaláveis
+- QA & Automação
+
+- Análise de Dados
 
 
 ## 🛠 Tech Skills
 
-Tecnologias que estou aprendendo e praticando no momento, voltadas para desenvolvimento backend com Java:
+Tecnologias que estou aprendendo e praticando no momento:
 
 <table>
   <tr>
