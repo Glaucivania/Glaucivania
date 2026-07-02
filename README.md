@@ -13,7 +13,7 @@ Aqui, você encontrará projetos relacionados a:
 
 - QA & Automação
 
-- Análise de Dados
+- Engenharia de Dados
 
 
 ## 🛠️ Tecnologias & Especialidades
