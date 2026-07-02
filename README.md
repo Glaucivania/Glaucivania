@@ -4,7 +4,7 @@
 <p align="left"> 
   Olá, me chamo Glaucivania Gomes👋
   
-Atualmente, estou cursando Engenharia de Software e expandindo minha atuação para além do desenvolvimento backend, focando em QA (Quality Assurance) e Análise de Dados com Python. Meu objetivo é construir soluções que sejam, ao mesmo tempo, robustas tecnicamente e orientadas por dados.
+Atualmente, estou cursando Engenharia de Software e expandindo minha atuação para além do desenvolvimento backend, focando em QA (Quality Assurance) e Engenharia de Dados. Meu objetivo é construir soluções que sejam, ao mesmo tempo, robustas tecnicamente e orientadas por dados.
 Aqui, você encontrará projetos relacionados a:
 
 - Backend Development
